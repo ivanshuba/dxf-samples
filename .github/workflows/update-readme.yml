@@ -1,0 +1,41 @@
+name: Update README
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches: [ master ]
+    paths: 
+      - '**/*.png' # Trigger when PNGs change
+      - 'scripts/*' # Trigger when scripts change
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install PowerShell
+        run: |
+          wget -q https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
+          sudo dpkg -i packages-microsoft-prod.deb
+          sudo apt-get update
+          sudo apt-get install -y powershell
+
+      - name: Generate Gallery
+        run: |
+          pwsh ./scripts/Generate-Gallery.ps1 -GitHubToken ${{ secrets.GITHUB_TOKEN }} -Owner ${{ github.repository_owner }} -Repo ${{ github.event.repository.name }} -OutputFile README.md
+          
+      - name: Add custom header
+        run: |
+          echo "# This repository is intended to provide a set of simple DXF file samples" > README.tmp
+          echo "" >> README.tmp
+          cat README.md >> README.tmp
+          mv README.tmp README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update README"
+          git push
