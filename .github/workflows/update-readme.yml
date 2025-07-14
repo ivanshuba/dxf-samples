@@ -27,7 +27,7 @@ jobs:
           
       - name: Add custom header
         run: |
-          echo "# This repository is intended to provide a set of simple DXF file samples" > README.tmp
+          echo "# This repository provides a set of DXF files samples" > README.tmp
           echo "" >> README.tmp
           cat README.md >> README.tmp
           mv README.tmp README.md
