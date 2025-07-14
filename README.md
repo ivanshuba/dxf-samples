@@ -1,13 +1,5 @@
 # This repository provides a set of DXF files samples
 
-Use illustrations below to find a particular DXF file sample.
-
-Then pass the sample's name ( in brackets ) into DxfExamplesDataMap as shown below to download the DXF sample data set.
-
-DxfExamplesDataMap.DxfExampleData example = DxfExamplesDataMap.getExample(name).orElseThrow();
-
-One can access the name (xample.name()), url (xample.url()), polylines (xample.curves()), and scale (xample.scale()) of the loaded dataset.
-Then pass sample name ( in brackets ) into DxfExamplesDataMap.getExample(name).orElseThrow();to request the downloading with Dxf
 
 <table>
 <tr>
