@@ -107,16 +107,6 @@ process {
         Write-Host "🖼️ Generating Markdown file with $($imageData.Count) images..."
         
         $markdownLines = [System.Collections.Generic.List[string]]::new()
-        $markdownLines.Add(@"
-Use illustrations below to find a particular DXF file sample.
-
-Then pass the sample's name ( in brackets ) into DxfExamplesDataMap` as shown below to download the DXF sample data set.
-
-`DxfExamplesDataMap.DxfExampleData example = DxfExamplesDataMap.getExample(name).orElseThrow();`
-
-One can access the name (`example.name()`), url (`example.url()`), polylines (`example.curves()`), and scale (`example.scale()`) of the loaded dataset.
-"@)
-        $markdownLines.Add("Then pass sample name ( in brackets ) into DxfExamplesDataMap.getExample(name).orElseThrow();to request the downloading with `Dxf")
         $markdownLines.Add("")
         $markdownLines.Add("<table>")
         
