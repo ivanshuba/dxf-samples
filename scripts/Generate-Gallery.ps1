@@ -111,9 +111,8 @@ process {
 Use illustrations below to find a particular DXF file sample.
 
 Then pass the sample's name ( in brackets ) into DxfExamplesDataMap` as shown below to download the DXF sample data set.
-```java
-DxfExamplesDataMap.DxfExampleData example = DxfExamplesDataMap.getExample(name).orElseThrow();
-```
+
+`DxfExamplesDataMap.DxfExampleData example = DxfExamplesDataMap.getExample(name).orElseThrow();`
 
 One can access the name (`example.name()`), url (`example.url()`), polylines (`example.curves()`), and scale (`example.scale()`) of the loaded dataset.
 "@)
