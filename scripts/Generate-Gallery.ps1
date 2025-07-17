@@ -21,7 +21,7 @@ param(
     [string]$Repo = $env:GITHUB_REPOSITORY.Split('/')[-1],
 
     [Parameter(Mandatory = $false)]
-    [string]$Path = "",
+    [string]$Path = "samples",
 
     [Parameter(Mandatory = $false)]
     [string]$OutputFile = "README.md"

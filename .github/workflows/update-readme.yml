@@ -5,7 +5,7 @@ on:
   push:
     branches: [ master ]
     paths: 
-      - '**/*.png' # Trigger when PNGs change
+      - 'samples/**/*.png' # Trigger when PNGs change
       - 'scripts/*' # Trigger when scripts change
 
 jobs:
