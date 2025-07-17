@@ -47,6 +47,7 @@ jobs:
           # Commit only if there are changes
           if ! git diff --staged --quiet; then
             git commit -m "Auto-update generated files"
+            git pull --rebase
             git push
           else
             echo "No changes to commit."
