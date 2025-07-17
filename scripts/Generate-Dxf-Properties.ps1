@@ -56,10 +56,10 @@ try {
             Write-Host "    ✨ Found unit file: $($unitFile.Name)"
             $unitFile.Name.Substring(0, 2).ToUpper()
         } else {
-            Write-Host "    ⚠️ No unit file found, defaulting to 'IN'."
-            'IN'
+            Write-Host "    ⚠️ No unit file found, defaulting to 'MM'."
+            'MM'
         }
-        
+
         # Key is the folder name, URL is the raw download URL
         $key = $folder.name
         $url = $dxfFile.download_url
