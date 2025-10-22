@@ -553,14 +553,22 @@
     </td>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
+        <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/SquareWithHexagonHole/SquareWithHexagonHole.png" alt="SquareWithHexagonHole" style="max-height:400px; max-width:100%; object-fit:contain">
+      </div>
+      <br>
+      <b>SquareWithHexagonHole</b><br>
+      <small>(SquareWithHexagonHole)</small>
+    </td>
+</tr>
+<tr>
+    <td align="center" valign="bottom" style="width:50%">
+      <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/SquareWithOpenAndClosedCurves/square-with-open-and-closed-curves.png" alt="square-with-open-and-closed-curves" style="max-height:400px; max-width:100%; object-fit:contain">
       </div>
       <br>
       <b>square-with-open-and-closed-curves</b><br>
       <small>(SquareWithOpenAndClosedCurves)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/SquareWithOpenCurve/square-with-open-curve.png" alt="square-with-open-curve" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -569,6 +577,8 @@
       <b>square-with-open-curve</b><br>
       <small>(SquareWithOpenCurve)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/SquareWithSquareHole/SquareWithSquareHole.png" alt="SquareWithSquareHole" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -577,8 +587,6 @@
       <b>SquareWithSquareHole</b><br>
       <small>(SquareWithSquareHole)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/SquaresInternalCusps/squares-internal-cusps.png" alt="squares-internal-cusps" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -587,6 +595,8 @@
       <b>squares-internal-cusps</b><br>
       <small>(SquaresInternalCusps)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/SymmetricLoops/SymmetricLoops.png" alt="SymmetricLoops" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -595,8 +605,6 @@
       <b>SymmetricLoops</b><br>
       <small>(SymmetricLoops)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/TestTopper2/TestTopper2.png" alt="TestTopper2" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -605,6 +613,8 @@
       <b>TestTopper2</b><br>
       <small>(TestTopper2)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/TestTopper2_O_letter/TestTopper2_O_letter.png" alt="TestTopper2_O_letter" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -613,8 +623,6 @@
       <b>TestTopper2_O_letter</b><br>
       <small>(TestTopper2_O_letter)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/ThisIsWhereTheChildrenLive/this%20is%20where%20children%20live.png" alt="this is where children live" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -623,6 +631,8 @@
       <b>this is where children live</b><br>
       <small>(ThisIsWhereTheChildrenLive)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/TigletFile/Tiglet%20File.png" alt="Tiglet File" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -631,8 +641,6 @@
       <b>Tiglet File</b><br>
       <small>(TigletFile)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/TwoNestedClusterGroups/TwoNestedClusterGroups.png" alt="TwoNestedClusterGroups" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -641,6 +649,8 @@
       <b>TwoNestedClusterGroups</b><br>
       <small>(TwoNestedClusterGroups)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/TwoNestedClusterGroups_Rotated/TwoNestedClusterGroups_Rotated.png" alt="TwoNestedClusterGroups_Rotated" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -649,8 +659,6 @@
       <b>TwoNestedClusterGroups_Rotated</b><br>
       <small>(TwoNestedClusterGroups_Rotated)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/TwoSeparateClusters/TwoSeparateClusters.png" alt="TwoSeparateClusters" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -659,6 +667,8 @@
       <b>TwoSeparateClusters</b><br>
       <small>(TwoSeparateClusters)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/UShapedOpenPolyline/UShapedOpenPolyline.png" alt="UShapedOpenPolyline" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -667,8 +677,6 @@
       <b>UShapedOpenPolyline</b><br>
       <small>(UShapedOpenPolyline)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/VariousCircularCuspsOneAsHole/various-circular-cusps-one-as-hole.png" alt="various-circular-cusps-one-as-hole" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -677,6 +685,8 @@
       <b>various-circular-cusps-one-as-hole</b><br>
       <small>(VariousCircularCuspsOneAsHole)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/VesaMount/Vesa%20Mount.png" alt="Vesa Mount" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -685,8 +695,6 @@
       <b>Vesa Mount</b><br>
       <small>(VesaMount)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/circle-in-square/circle-in-square.png" alt="circle-in-square" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -695,6 +703,8 @@
       <b>circle-in-square</b><br>
       <small>(circle-in-square)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/closed_random_simple_5000_pts/closed_random_polyline_5000_pts.png" alt="closed_random_polyline_5000_pts" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -703,8 +713,6 @@
       <b>closed_random_polyline_5000_pts</b><br>
       <small>(closed_random_simple_5000_pts)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/closed_random_simple_500_pts/closed_random_polyline_500_pts.png" alt="closed_random_polyline_500_pts" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -713,6 +721,8 @@
       <b>closed_random_polyline_500_pts</b><br>
       <small>(closed_random_simple_500_pts)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/dragon-cornered-parts-IN/dragon-cornered-parts-IN.png" alt="dragon-cornered-parts-IN" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -721,8 +731,6 @@
       <b>dragon-cornered-parts-IN</b><br>
       <small>(dragon-cornered-parts-IN)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/dragon-cornered/dragon-cornered.png" alt="dragon-cornered" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -731,6 +739,8 @@
       <b>dragon-cornered</b><br>
       <small>(dragon-cornered)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/langmuirsystems/langmuirsystems.png" alt="langmuirsystems" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -739,8 +749,6 @@
       <b>langmuirsystems</b><br>
       <small>(langmuirsystems)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/missing-segment/missing-segment.png" alt="missing-segment" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -749,6 +757,8 @@
       <b>missing-segment</b><br>
       <small>(missing-segment)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/sharp-semi-circles/sharp-semi-circles.png" alt="sharp-semi-circles" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -757,8 +767,6 @@
       <b>sharp-semi-circles</b><br>
       <small>(sharp-semi-circles)</small>
     </td>
-</tr>
-<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/simple-bends-rejoin/simple-bends-rejoin.png" alt="simple-bends-rejoin" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -767,6 +775,8 @@
       <b>simple-bends-rejoin</b><br>
       <small>(simple-bends-rejoin)</small>
     </td>
+</tr>
+<tr>
     <td align="center" valign="bottom" style="width:50%">
       <div style="height:400px; display:flex; align-items:center; justify-content:center">
         <img src="https://raw.githubusercontent.com/ivanshuba/dxf-samples/master/samples/single-split-vertex/single-split-vertex.png" alt="single-split-vertex" style="max-height:400px; max-width:100%; object-fit:contain">
@@ -775,9 +785,10 @@
       <b>single-split-vertex</b><br>
       <small>(single-split-vertex)</small>
     </td>
+    <td></td>
 </tr>
 </table>
 
-> *Total folders processed: 86*
-> *Images found: 86*
+> *Total folders processed: 87*
+> *Images found: 87*
 > *Folders without images: 0*
